@@ -1,4 +1,4 @@
-# Power_bi
+# data visualization
 
 Introduction:
 Netflix has disrupted the television and cinema industry over the last decade. It has given its audience a far more comfortable, flexible and customizable experience in the media content that they want to consume.
